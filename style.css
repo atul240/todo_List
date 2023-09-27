@@ -1,0 +1,24 @@
+#grad {
+    background-color: antiquewhite;
+    align-items: center;
+}
+
+/* #div1{
+    background-color:aquamarine;
+    align-items: center;
+} */
+div {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 1px solid black;
+    /* outline-style: solid; */
+    outline-color: red;
+    outline-width: 4px;
+}
+
+btn {
+    position: absolute;
+    align-items: center;
+}
